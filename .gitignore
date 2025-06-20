@@ -13,9 +13,6 @@ simples*.csv
 # Ignorar a sua planilha de 1000 sócios
 Planilha*.csv
 
-# Ignorar o arquivo de resultado gerado pelo script
-empresas_encontradas_FINAL.csv
-
 # Arquivos comuns de projetos Python que não devem ser versionados
 __pycache__/
 *.pyc
